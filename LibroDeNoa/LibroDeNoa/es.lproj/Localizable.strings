@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LibroDeNoa
+
+  Created by Nicolás Hechim on 16/12/16.
+  Copyright © 2016 UAB. All rights reserved.
+*/
+
+"AudioNarrador" = "narrador01_fast_sp.mp3";
+"SubtituloNarrador" = "Noa y su gato, Línux, pasan unos días en la granja del tío y la tía de Noa.";
+"BafaradesTieta" = "¡Qué día tan bonito hace!";
+"BafaradesTiet" = "Esta leña hará un buen fuego.";
+"BafaradesCarlotaBici" = "¡Vamos a explorar la granja!";
+"BafaradesMerli" = "Me he dejado las gafas de sol en casa.";
